@@ -1,4 +1,4 @@
-# Global_Deforestation_Analysis
+# Global_Deforestation_Analysis 
 A day in the life of a data analyst.
 
 ForestQuery is on a mission to combat deforestation around the world. To raise awareness about this topic and its impact on the environment, deforestation data from World Bank that includes forest area and total land area by country and year from 1990 to 201 has been collected for analysis.
